@@ -1,4 +1,4 @@
-```markdown
+
 # RitBet
 
 RitBet é uma aplicação demonstrativa de conhecimento em tecnologias Web3, com o intuito de mostrar a integração entre Smart Contracts desenvolvidos em Solidity, um frontend em React e o uso de carteiras digitais, como a MetaMask, interagindo com as redes Ethereum e Polygon.
